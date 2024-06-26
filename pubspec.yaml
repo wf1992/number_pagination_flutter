@@ -1,7 +1,7 @@
 name: number_pagination_flutter
 description: "flutter的number_pagination，翻页控件"
-version: 1.0.0
-homepage: https://www.baidu.com
+version: 1.0.1
+homepage: https://github.com/wf1992/number_pagination_flutter
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
