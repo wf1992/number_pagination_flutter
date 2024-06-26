@@ -4,7 +4,7 @@
 
 ## 版本更新说明
 
-### version 1.0.0 2024/4/28
+### version 1.0.1 2024/6/26
 
 # 样式
 
@@ -30,7 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
 	...
-	number_pagination_flutter: ^1.0.0
+	number_pagination_flutter: ^1.0.1
 	...
 ```
 
